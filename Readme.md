@@ -1,4 +1,4 @@
-# Project Name
+# Go-Gin-Try
 
 This is a sample project based on tutorial https://go.dev/doc/tutorial/web-service-gin which is created using Go and Gin framework. We have lined further enhancement to make it more production ready.
 
