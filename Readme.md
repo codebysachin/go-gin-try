@@ -6,7 +6,7 @@ This is a sample project based on tutorial https://go.dev/doc/tutorial/web-servi
 
 - [x] Controller defined in separate directory
 - [x] Model defined in seperate directory
-- [ ] Routes defined in seperate directory (Coming Soon)
+- [x] Routes defined in seperate directory (Coming Soon)
 - [ ] Services defined in seperate directory (Coming Soon)
 - [ ] Utils  (Coming Soon, planned structure)
 - [ ] Config (Coming Soon, planned structure)
@@ -42,3 +42,6 @@ To clone and run this project, follow these steps:
     ```
     go run main.go
     ```
+
+## Sample Curl request
+```curl http://localhost:8080/albums/2```
