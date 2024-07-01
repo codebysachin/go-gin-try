@@ -6,7 +6,7 @@ This is a sample project based on tutorial https://go.dev/doc/tutorial/web-servi
 
 - [x] Controller defined in separate directory
 - [x] Model defined in seperate directory
-- [x] Routes defined in seperate directory (Coming Soon)
+- [x] Routes defined in seperate directory
 - [ ] Services defined in seperate directory (Coming Soon)
 - [ ] Utils  (Coming Soon, planned structure)
 - [ ] Config (Coming Soon, planned structure)
@@ -21,6 +21,8 @@ This is a sample project based on tutorial https://go.dev/doc/tutorial/web-servi
 │   ├── albumController.go
 ├── models
 │   ├── album.go
+├── routes
+│   ├── routes.go
 ├── README.md
 ```
 
