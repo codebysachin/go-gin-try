@@ -12,8 +12,6 @@ This is a sample project based on tutorial https://go.dev/doc/tutorial/web-servi
 - [ ] Config (Coming Soon, planned structure)
 - [ ] Middlewares (Coming Soon, planned structure)
 
-Now your project is added to the repository `git@github.com:codebysachin/go-gin-try.git`.
-
 ## Project Structure
 
 ```
