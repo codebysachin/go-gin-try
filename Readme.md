@@ -11,34 +11,6 @@ This is a sample project based on tutorial https://go.dev/doc/tutorial/web-servi
 - [ ] Utils  (Coming Soon, planned structure)
 - [ ] Config (Coming Soon, planned structure)
 - [ ] Middlewares (Coming Soon, planned structure)
-## How to add this project to the repository
-
-To add this project to the repository `git@github.com:codebysachin/go-gin-try.git`, follow these steps:
-
-1. Initialize a new Git repository in the project directory:
-    ```
-    git init
-    ```
-
-2. Add all the files to the Git repository:
-    ```
-    git add .
-    ```
-
-3. Commit the changes:
-    ```
-    git commit -m "Initial commit"
-    ```
-
-4. Add the remote repository:
-    ```
-    git remote add origin git@github.com:codebysachin/go-gin-try.git
-    ```
-
-5. Push the changes to the remote repository:
-    ```
-    git push -u origin master
-    ```
 
 Now your project is added to the repository `git@github.com:codebysachin/go-gin-try.git`.
 
